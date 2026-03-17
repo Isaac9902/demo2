@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI Pre-sales Opportunity Assistant Demo
 
 这是一个项目库驱动的售前机会分析与跟进辅助 demo。
@@ -24,3 +25,6 @@
 
 ## 说明
 本仓库为 demo / 验证版本，部分数据和配置已做脱敏处理。
+=======
+# demo2
+>>>>>>> 4a3b1be261a5bc85c6cdb8ea679cd6e9e1db5b8f
