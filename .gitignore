@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual env
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Secrets / env
+.env
+.env.*
+.streamlit/secrets.toml
+
+# Local database / runtime files
+*.db-journal
+*.sqlite-journal
+
+# Logs / temp
+*.log
+tmp/
+temp/
+
+# Python packaging
+build/
+dist/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+data/app_data.db
+
+data/project_cases.jsonl
+data/project_cases_cleaned.jsonl
+data/project_cases_manual_seed.jsonl
+data/review_corrections.jsonl
